@@ -1,4 +1,3 @@
-# Carregar pacotes
 if (!require("glmnet")) install.packages("glmnet")
 if (!require("mgcv")) install.packages("mgcv")
 library(glmnet)
